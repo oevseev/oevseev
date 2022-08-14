@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Oleg 👋
 
-<!--
-**oevseev/oevseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a back-end software engineer and system programmer working mainly with C++, Go and Python (and recently Rust).
 
-Here are some ideas to get you started:
+You can take a look at [my CV](https://github.com/oevseev/oevseev/raw/65c8f89d424e50429fc934bda116c8cfc3246486/cv.pdf).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My other somewhat IT-related interests that find reflection in my hobby projects:
+
+- 🎛 Music production
+- 💡 Electronic engineering
+- ♟ Mind sports and board games
+- 👾 Video game development
+- 💾 Retrocomputing and emulation
+- 📈 Machine learning
+- and probably more
