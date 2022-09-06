@@ -11,5 +11,5 @@ You can take a look at [my CV](https://github.com/oevseev/oevseev/raw/65c8f89d42
 - ♟ Mind sports and board games
 - 👾 Video game development
 - 💾 Retrocomputing and emulation
-- 📈 Machine learning
+- 📈 Data Science
 - and probably more
