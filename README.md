@@ -8,7 +8,7 @@ You can take a look at [my CV](https://github.com/oevseev/oevseev/raw/master/cv.
 
 - 🎛 Music production
 - 💡 Electronic engineering
-- ♟ Mind sports and board games
+- ♟ Board games
 - 👾 Video games
 - 💾 Retrocomputing and emulation
 - 📈 Data science
