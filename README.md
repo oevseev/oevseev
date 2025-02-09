@@ -9,8 +9,7 @@ You can take a look at [my CV](https://github.com/oevseev/oevseev/raw/master/cv.
 - 🎛 Audio and music production
 - 💡 Electronic engineering
 - ⚙️ Mechanical engineering
-- 🎲 Board games
-- 👾 Video games
-- 💾 History of computing
+- 💾 Emulation and retrocomputing
 - 📈 Data science
+- 👾 Board and video games
 - and probably more
