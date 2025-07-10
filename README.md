@@ -10,7 +10,7 @@ You can take a look at [my CV](https://github.com/oevseev/oevseev/raw/master/cv.
 - 💡 Electronic engineering
 - ⚙️ Mechanical engineering and robotics
 - 💾 Retrocomputing and emulation
-- ➗ Mathematics
+- ➗ Mathematics and computer science
 - 📈 Data analysis
 - 👾 Board and video games
 - and probably many more not listed here
