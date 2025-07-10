@@ -1,15 +1,16 @@
-### Hi, I'm [Oleg](https://keyoxide.org/hkp/12E87E3B10361CD9D18C279C150BCCE50E7D2580) 👋
+### Hi, I'm Oleg 👋
 
-I'm a back-end software engineer and system programmer working mainly with C++, Go, Python and Rust.
+I'm a back-end software engineer and system programmer working mainly with C++, Python, Go and Rust.
 
 You can take a look at [my CV](https://github.com/oevseev/oevseev/raw/master/cv.pdf). Some of my projects are hosted on [GitLab](https://gitlab.com/oevseev) as well.
 
-### My other engineering-related and creative interests that find reflection in my hobby projects:
+### My other engineering-related and creative interests that may find reflection in my hobby projects:
 
 - 🎛 Audio and music production
 - 💡 Electronic engineering
-- ⚙️ Mechanical engineering
-- 💾 Emulation and retrocomputing
-- 📈 Data science
+- ⚙️ Mechanical engineering and robotics
+- 💾 Retrocomputing and emulation
+- ➗ Mathematics
+- 📈 Data analysis
 - 👾 Board and video games
-- and probably more
+- and probably many more not listed here
