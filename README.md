@@ -1,6 +1,6 @@
 ### Hi, I'm Oleg 👋
 
-I'm a back-end software engineer and system programmer working mainly with C++, Python, Go and Rust.
+I'm a back-end software engineer, application developer and system programmer working mainly on projects in C++, Python, Go and Rust.
 
 You can take a look at [my CV](https://github.com/oevseev/oevseev/raw/master/cv.pdf). Some of my projects are hosted on [GitLab](https://gitlab.com/oevseev) as well.
 
@@ -13,4 +13,4 @@ You can take a look at [my CV](https://github.com/oevseev/oevseev/raw/master/cv.
 - ➗ Mathematics and computer science
 - 📈 Data analysis
 - 👾 Board and video games
-- and probably many more not listed here
+- and probably some more not listed here
